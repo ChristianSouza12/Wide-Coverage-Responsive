@@ -10,5 +10,10 @@ Technologies used:
 
   - <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css-logo">
 
+  <br>
+  <br>
+
+  <img src="https://github.com/ChristianSouza12/Wide-Coverage-Responsive/blob/master/assets/50274099-d647-43a6-8818-98f33544312b.jpg?raw=true">
+
 
   
